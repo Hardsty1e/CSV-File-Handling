@@ -2,7 +2,7 @@
 """
 Created on Thu Sep 30 16:07:53 2021
 
-@author: sanchit.thakur.in
+@author: sanchit.thakur
 """
 
 import csv
